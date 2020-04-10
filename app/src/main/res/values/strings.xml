@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab_1</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMult">*</string>
+    <string name="btnDiv">/</string>
+</resources>
